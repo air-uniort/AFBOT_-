@@ -1,6 +1,6 @@
 {
     "color": "#ffffff",
-    "prefix": "/",
+    "prefix": "+",
     "name": "gg.airfranceroblox",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
